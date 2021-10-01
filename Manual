@@ -1,0 +1,10 @@
+W,A,S,D=draw straight lines
+Button 1(not numpad)=Change colour to White
+Button 2(not numpad)=Change colour to Blue
+Button 3(not numpad)=Change colour to Yellow
+Button 4(not numpad)=Change colour to Green
+R=Chane colour to Red
+Q=clear the screen
+
+//Everything you draw stays untill you clear the screen or shutdown the computer
+
